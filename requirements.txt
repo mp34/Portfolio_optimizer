@@ -2,6 +2,8 @@ streamlit
 pandas
 numpy
 prophet
-matplotlib
+statsmodels
 scikit-learn
+plotly
 yfinance
+requests
